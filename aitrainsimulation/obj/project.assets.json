@@ -592,11 +592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d_aqu\\repos\\AITrainSimulation\\aitrainsimulation.csproj",
+      "projectUniqueName": "C:\\Users\\d_aqu\\repos\\AITrainSimulation\\aitrainsimulation\\aitrainsimulation.csproj",
       "projectName": "aitrainsimulation",
-      "projectPath": "C:\\Users\\d_aqu\\repos\\AITrainSimulation\\aitrainsimulation.csproj",
+      "projectPath": "C:\\Users\\d_aqu\\repos\\AITrainSimulation\\aitrainsimulation\\aitrainsimulation.csproj",
       "packagesPath": "C:\\Users\\d_aqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d_aqu\\repos\\AITrainSimulation\\obj\\",
+      "outputPath": "C:\\Users\\d_aqu\\repos\\AITrainSimulation\\aitrainsimulation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

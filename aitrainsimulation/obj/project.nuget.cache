@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h6kvA7tNZx17g3P7EyjjYHcQulDUtgnf/sArChWZOFEr9babQbR20F3Cq8WauYgEfEo2YjPI91U6GUAAx+UkMA==",
+  "dgSpecHash": "j83oDEwtoUgyJPxEvzkDIt+myvc4jWYsUjMdEJ0fYHErDnfWHXiuAmkeXaHdGy1s3mfw6b63PIOu+JGZvrtLRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\d_aqu\\repos\\AITrainSimulation\\aitrainsimulation.csproj",
+  "projectFilePath": "C:\\Users\\d_aqu\\repos\\AITrainSimulation\\aitrainsimulation\\aitrainsimulation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\d_aqu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\d_aqu\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",
